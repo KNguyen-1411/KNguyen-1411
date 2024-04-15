@@ -69,7 +69,7 @@ h1{
 }
 .banner{
     height: 420px;
-    background-image: url(/Source/images/banner.png);
+    background-image: url(../images/banner.png);
     background-position:center center ;
     background-size: cover;
 }
@@ -100,7 +100,7 @@ h1{
 }
 .logo{
     width: 200px;
-    background-image: url(/Source/images/logo.png);
+    background-image: url(../images/logo.png);
     background-position:center;
     background-repeat: no-repeat;
 }
