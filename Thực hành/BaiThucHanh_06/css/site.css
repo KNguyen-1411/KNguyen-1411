@@ -5,7 +5,6 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
 }
-
 :root {
     --container-width: 100%;
     --section-width: 980px;
@@ -14,59 +13,46 @@
     --color-darkred: #b70f0b;
     --color-gray: #a19a94;
 }
-
 body {
     background-image: url("../images/bg-top.jpg"), url("../images/bg-bottom.jpg");
     background-repeat: no-repeat, no-repeat;
     background-position: top center, bottom center;
     background-color: #f2f2f2;
 }
-
 a {
     text-decoration: none;
 }
-
 a:hover {
     opacity: 0.8;
 }
-
 .container {
     width: var(--container-width);
-    position: relative;
 }
-
 section {
     width: var(--section-width);
     position: relative;
     margin: 0 auto;
 }
-
-#menu {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
+#menu{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
 }
-
-#menu .space {
-    width: 200px !important;
+#menu li{
+  border-right:1px solid #fff ;
+  padding-right: 12px;
 }
-
-#menu a {
-    color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.1rem;
+#menu li:last-child{
+  border-right: none;
 }
-
-#menu>li {
-    list-style: none;
-    border-right: 1px solid rgba(225, 225, 225, 0.5);
-    padding-right: 10px;
+#menu a{
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
 }
-
-#menu>li:last-child {
-    border-right: none;
+#space{
+  width: 200px;
 }
-
 #section-1 {
     margin-top: 500px;
     display: grid;
@@ -75,40 +61,34 @@ section {
     background-color: var(--color-darkblue);
     border: 2px solid var(--color-darkblue);
 }
-
 #long-den {
     position: absolute;
     top: 0;
     left: -75px;
     z-index: 999;
 }
-
 .slider img {
     width: 100%;
     height: 260px;
 }
-
 .left-buttons {
     display: grid;
     grid-template-columns: auto;
     grid-template-rows: 124px 68px 68px;
 }
-
 #tai-game {
     background-image: url("../images/btn_taigame.jpg");
     z-index: 0;
 }
-
 #dang-ky,
 #nap-the {
     background-image: url("../images/buttons-left.png");
     margin-top: 5px;
+    margin-left: 1.5px;
 }
-
 #dang-ky {
     background-position: 0 -1px;
 }
-
 #nap-the {
     background-position: 0 -64px;
 }
@@ -306,14 +286,14 @@ section {
     text-transform: uppercase;
 }
 
-.small {
+.day {
     font-size: 15px;
     font-style: italic;
     margin: 7px 0 7px 0;
 }
 
 .post-content,
-.small {
+.day {
     color: #ccc;
 }
 
