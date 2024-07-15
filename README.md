@@ -27,8 +27,11 @@
 <p align="center">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" width="48" height="48"/>
   <img src="https://th.bing.com/th/id/OIP.b4_YyiXHoNDYse-ky1OL_QHaHa?rs=1&pid=ImgDetMain" width="48" height="48"/>
-  <img src="https://th.bing.com/th/id/OIP.oDkmpM5TPGWwG8e9O8G1sQHaF5?rs=1&pid=ImgDetMain" width="48" height="48"/>
   <img src="https://th.bing.com/th/id/OIP.0qThwGUlnULLAz8MTnN9QwHaHa?rs=1&pid=ImgDetMain" width="48" height="48"/>
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="48" height="48"/>
+  <img src="https://shapebootstrap.net/wp-content/uploads/2023/06/image-5.jpeg" width="48" height="48"/>
+
+  
 </p>
 
 ## Activities:
