@@ -39,8 +39,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNguyen-1411&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="XTSoft2004" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=KNguyen-1411&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNguyen-1411&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="KN" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=KNguyen-1411&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="KN" width="100%"/>
     </td>
     <td>
       <p align="center"> 
