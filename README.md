@@ -2,7 +2,7 @@
   <table style="width:100%;">
   <tr>
     <td>
-     <img src="/Private/images/kn.jpg" width="450" alt="Khánh Nguyên" style="border: 2px solid white; border-radius: 10px; object-fit: cover;">
+     <img src="/Private/images/kn.jpg" width="300" alt="Khánh Nguyên" style="border: 2px solid white; border-radius: 10px; object-fit: cover;">
     </td>
     <td>
 
