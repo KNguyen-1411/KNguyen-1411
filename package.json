@@ -1,0 +1,8 @@
+{
+  "name": "kn",
+  "version": "1.0.0",
+  "main": "init.js",
+  "scripts": {
+    "generate": "node init.js"
+  }
+}
