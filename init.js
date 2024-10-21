@@ -8,10 +8,8 @@ const generate = () => {
   const yyyy = String(curDate.getFullYear()).padStart(4, `0`);
 
   const today = `${mm}/${dd}/${yyyy}`;
-  let readmeContent = fs.readFileSync("README.md", "utf-8");
-
-  readmeContent = readmeContent.replace(/\(\{\{Date\}\}\)/g, ` ${today} `);
-
+  let readmeContent = fs.readFileSync("temp.md", "utf-8");
+  readmeContent = readmeContent.replace(/{{DATE}}/g, today);
   fs.writeFileSync("README.md", readmeContent);
 };
 
