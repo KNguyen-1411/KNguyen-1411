@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <h4 align="center">Fullstack developer</h4>
-  <h4 align="center">10/23/2024</h4>
+  <h4 align="center">ToDay: 10/23/2024</h4>
 </p>
 
 ### 📫 Contact me:
@@ -41,18 +41,14 @@
   <table style="width:100%;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen-1411&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,shell3&theme=tokyonight&show_icons=true&locale=vi&layout=compact" alt="Top Languages" width="100%"/>
-        <a href="http://www.github.com/knguyen-1411"><img src="https://github-readme-stats.vercel.app/api?username=knguyen-1411&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="knguyen-1411's GitHub stats" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNguyen-1411&hide=html,scss,stylus,blade,jupyter%20notebook,vim%20script,css,shell3&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=knguyen-1411&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight&show_icons=true" alt="Top Languages" width="100%"/>
       <td>
-        <p align="center">
           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmNDVxZHpmNXU1OWRpdnIybDZqaTN5NXNoNGRodWRydjdueDNteCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sthmCnCpfr8M8jtTQy/giphy.webp" alt="Developer" width="100%" height="100%"/>
-        </p>
       </td>
     </tr>
   </table>
 </p>
-
-_Các thống kê chỉ mang tính chất tương đối_
 
 ### 🏫 Education
 
