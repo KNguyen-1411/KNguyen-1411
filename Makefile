@@ -10,12 +10,12 @@ all: docx pdf
 
 docx:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).docx
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/KhanhNguyen\_resume-$(BRANCH_NAME).docx
 
 pdf:
 	@mkdir -p $(OUTPUT_DIR)
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/KhanhNguyen_resume-$(BRANCH_NAME).pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="JetBrainsMono-Regular" \
 		--variable boldfont="JetBrainsMono-Bold" \
