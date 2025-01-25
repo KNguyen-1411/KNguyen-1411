@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <h4 align="center">Fullstack developer</h4>
-  <h4 align="center">ToDay: 01/24/2025</h4>
+  <h4 align="center">ToDay: 01/25/2025</h4>
 </p>
 
 ### 📫 Contact me:
